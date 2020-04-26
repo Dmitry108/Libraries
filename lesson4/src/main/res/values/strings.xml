@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesso4</string>
+    <string name="gson">Gson</string>
+    <string name="load_photo">Load photo</string>
+</resources>
