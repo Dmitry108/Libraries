@@ -1,2 +1,2 @@
-include ':app', ':lesson3', ':lesson4'
+include ':app', ':lesson3', ':lesson4', ':lesson5room'
 rootProject.name='Libraries'
