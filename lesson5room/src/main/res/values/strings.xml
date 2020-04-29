@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lesson5Room</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="age">Age</string>
+    <string name="previous"><![CDATA[<<]]></string>
+    <string name="next"><![CDATA[>>]]></string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="find">Find</string>
+    <string name="add">+</string>
+    <string name="remote">-</string>
+    <string name="find_all">Find all</string>
+    <string name="add_to_insert">Add to insert</string>
+    <string name="insert_all">Insert all</string>
+</resources>
